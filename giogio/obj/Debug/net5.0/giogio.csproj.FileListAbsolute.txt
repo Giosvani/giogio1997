@@ -1,0 +1,16 @@
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.exe
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.deps.json
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.runtimeconfig.json
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.runtimeconfig.dev.json
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.dll
+C:\Users\Giorgi\source\repos\giogio\giogio\bin\Debug\net5.0\giogio.pdb
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.csproj.AssemblyReference.cache
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.dll
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\refint\giogio.dll
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.pdb
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\giogio.genruntimeconfig.cache
+C:\Users\Giorgi\source\repos\giogio\giogio\obj\Debug\net5.0\ref\giogio.dll
